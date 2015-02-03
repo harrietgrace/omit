@@ -1,0 +1,16 @@
+{
+  "name": "omit",
+  "version": "0.1.0",
+  "repo": "harrietgrace/omit",
+  "description": "Omit keys from an object, returning a clone.",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  }
+}

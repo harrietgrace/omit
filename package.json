@@ -1,0 +1,13 @@
+{
+  "name": "omit",
+  "version": "0.1.0",
+  "repository": "git://github.com/harrietgrace/omit.git",
+  "description": "Omit keys from an object, returning a clone.",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
