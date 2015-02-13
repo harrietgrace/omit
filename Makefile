@@ -1,4 +1,6 @@
 
+default: build
+
 build: components
 		@component build --dev
 
